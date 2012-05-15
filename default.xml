@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<remote  name="github"
+           fetch=".."
+           review="review.teamw.in" />
+
+<project path="Team-Win-Recovery-Project" name="TeamWin/Team-Win-Recovery-Project" />
+</manifest>
